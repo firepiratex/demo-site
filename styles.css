@@ -1,0 +1,52 @@
+body {
+    background: #3674B5;
+}
+
+h2, h3{
+    color: #FFFFFF;
+    text-shadow: 0 0 1px black;
+    text-align: center;
+}
+
+#gift {
+    background-image: url("https://www.figma.com/community/resource/3a8f18df-96bf-41fd-9f29-d9e2824b050c/thumbnail");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    height: 669px;
+    width: 800px;
+    display: block;
+    margin: -100px auto;
+    background-position: center;
+}
+
+#gift:hover {
+    background-image: url("https://media.discordapp.net/attachments/904014741100441633/1075331414263873566/965999909755043851.gif?ex=6857bd6b&is=68566beb&hm=7937237381a763ed291c10939695df56bd48e4462678be5c68b3940d97a8c21c&");
+    background-size: 10%;
+}
+
+#gift2 {
+    background-image: url("https://www.figma.com/community/resource/3a8f18df-96bf-41fd-9f29-d9e2824b050c/thumbnail");
+    background-size: 70%;
+    background-repeat: no-repeat;
+    height: 669px;
+    width: 800px;
+    display: block;
+    margin: -50px auto;
+    background-position: center;
+}
+
+#gift2:hover {
+    background-image: url("https://cdn.discordapp.com/emojis/1007321876940468326.gif?size=96&quality=lossless");
+    background-size: 50%;
+}
+
+#btn {
+    color: dodgerblue;
+    font-size: 15px;
+    display: block;
+    margin: 100px auto;
+    background: #FFFFFF;
+    border: 3px solid cornflowerblue;
+    border-radius: 10px;
+    padding: 5px 30px;
+}
